@@ -21,6 +21,7 @@
  * @package     block_helpdesk
  * @copyright   2010 VLACS
  * @author	Jonathan Doane <jdoane@vlacs.org>
+ * @translator	Gianni Persico <ipers@gmx.net>
  * @license     http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
